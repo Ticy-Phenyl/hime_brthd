@@ -1,0 +1,16 @@
+nav img {
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  border-radius: 50%;
+}
+
+li a {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+h4 {
+  color: purple;
+}
+/*# sourceMappingURL=style.css.map */
