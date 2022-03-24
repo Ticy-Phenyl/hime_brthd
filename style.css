@@ -5,7 +5,7 @@ nav img {
   border-radius: 50%;
 }
 
-h1 {
+h1, p {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
@@ -14,8 +14,16 @@ li a {
   font-weight: bold;
 }
 
-h4 {
+h2 {
   color: purple;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Hurricane", cursive;
+}
+
+h3 {
+  font-family: cursive;
+}
+
+p {
+  font-size: 1.25rem;
 }
 /*# sourceMappingURL=style.css.map */
